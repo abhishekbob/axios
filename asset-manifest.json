@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/axios/static/css/main.66d9e90b.chunk.css",
+    "main.js": "/axios/static/js/main.2e05f21c.chunk.js",
+    "main.js.map": "/axios/static/js/main.2e05f21c.chunk.js.map",
+    "runtime-main.js": "/axios/static/js/runtime-main.313df826.js",
+    "runtime-main.js.map": "/axios/static/js/runtime-main.313df826.js.map",
+    "static/js/2.8ec35e87.chunk.js": "/axios/static/js/2.8ec35e87.chunk.js",
+    "static/js/2.8ec35e87.chunk.js.map": "/axios/static/js/2.8ec35e87.chunk.js.map",
+    "index.html": "/axios/index.html",
+    "static/css/main.66d9e90b.chunk.css.map": "/axios/static/css/main.66d9e90b.chunk.css.map",
+    "static/js/2.8ec35e87.chunk.js.LICENSE.txt": "/axios/static/js/2.8ec35e87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.313df826.js",
+    "static/js/2.8ec35e87.chunk.js",
+    "static/css/main.66d9e90b.chunk.css",
+    "static/js/main.2e05f21c.chunk.js"
+  ]
+}
